@@ -1,2 +1,2 @@
 # 2h2p Hack Client
-2h2p 1.8.8!!
+This is just Base Client with 2h2p Branding lol
